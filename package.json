@@ -1,0 +1,25 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://whywhynot.github.io/reneesauto",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whywhynot/reneesauto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whywhynot/reneesauto/issues"
+  },
+  "homepage": "https://github.com/whywhynot/reneesauto#readme"
+}
